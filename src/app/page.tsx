@@ -22,7 +22,7 @@ export default function HomePage() {
             Project Initialized
           </h1>
           <p className="text-gray-500 text-lg">
-            This is your main application page (`app/page.tsx`).
+            Amburgerrrr
           </p>
         </header>
 
